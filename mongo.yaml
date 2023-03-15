@@ -1,7 +1,3 @@
-ubernetes-components
-mongo.yaml
-mongo.yaml
-862 bytes
 apiVersion: apps/v1
 kind: Deployment
 metadata:
